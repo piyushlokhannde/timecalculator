@@ -12,9 +12,9 @@ JDK Version: java version 1.8.0_101
 
 
 Section 3
-a) Sonar lint / EclEmma scan Snapshot
-b) Final Output Snapshot
-c) Junit Coverage Snapshot
+a) Sonar lint / EclEmma scan Snapshot (https://github.com/piyushlokhannde/timecalculator/blob/master/sonarlint.png)
+b) Final Output Snapshot  (https://github.com/piyushlokhannde/timecalculator/blob/master/output.png)
+c) Junit Coverage Snapshot (https://github.com/piyushlokhannde/timecalculator/blob/master/testcoverage.png)
 
 
 
